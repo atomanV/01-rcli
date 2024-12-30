@@ -13,3 +13,7 @@ $ cargo add anyhow
 $ cargo add serde-json
 ```
 
+## Tools
+tokei: https://github.com/XAMPPRocky/tokei
+
+
